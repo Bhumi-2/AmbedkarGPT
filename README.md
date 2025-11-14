@@ -7,7 +7,7 @@ A simple **local** RAG prototype built exactly per the brief:
 - **ChromaDB** as vector store (local, persisted on disk)  
 - **Ollama (Mistral 7B)** as LLM (free, runs locally)  
 
-> No API keys, no cloud calls. Everything runs on your machine.
+> No API keys, no cloud calls. 
 
 ---
 
