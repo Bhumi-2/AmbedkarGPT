@@ -1,4 +1,4 @@
-# AmbedkarGPT – Intern Task
+# AmbedkarGPT 
 
 A simple **local Retrieval-Augmented Generation (RAG)** system built exactly according to the assignment requirements.
 
